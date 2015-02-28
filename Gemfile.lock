@@ -1,0 +1,18 @@
+PATH
+  remote: /Users/litch/code/eventstore
+  specs:
+    eventstore (0.0.1)
+      beefcake (~> 1.1.0.pre1)
+      promise.rb (~> 0.6.1)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    beefcake (1.1.0.pre1)
+    promise.rb (0.6.1)
+
+PLATFORMS
+  java
+
+DEPENDENCIES
+  eventstore!
